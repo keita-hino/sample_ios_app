@@ -1,0 +1,39 @@
+{
+  "images" : [
+    {
+      "alignment-insets" : {
+        "bottom" : 0,
+        "left" : 5,
+        "right" : 0,
+        "top" : 0
+      },
+      "filename" : "5086874532a72504e31d49c3e1049d5f.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
